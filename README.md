@@ -1,7 +1,7 @@
 ==========CHANEL TV SUKA-SUKA AJA===========
 ============TONTON SAJA SELAGI MASIH BISA===========
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="PLAYLIST GRATIS,TIDAK UNTUK DIJUAL, "
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="PLAYLIST GRATIS, TIDAK UNTUK DIJUAL, ORANG SAIGON PUNYE !!! "
 
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
